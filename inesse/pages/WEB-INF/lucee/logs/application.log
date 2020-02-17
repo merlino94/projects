@@ -1,0 +1,7 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"INFO","Thread-8","02/13/2020","14:26:50","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\pages\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-8","02/13/2020","14:26:50","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\pages\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-49","02/13/2020","14:29:56","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","Thread-8","02/13/2020","14:31:10","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\pages\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-8","02/13/2020","14:31:10","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\pages\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-61","02/13/2020","14:35:35","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"

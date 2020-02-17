@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'ocr-a';
+    src: url('/media/fonts/OCR-A_Regular.ttf');
+}
+
+@font-face{
+    font-family: 'Audiowide';
+    src: url('/media/fonts/Audiowide-new.ttf');
+}
+
+* {
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Jura';
+}
+
+body {
+    background: black;
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+div#menu{
+    position: fixed;
+}
+
+/* div#content {
+} */
+
+.title {
+    font-family: 'Jura';
+    font-weight: bold;
+    font-size: 4.5vw;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    font-family: 'Jura';
+    font-size: 3.5vw;
+}
+
+
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .title {
+        font-size: 7vw;
+    }
+    
+    .subtitle {
+        font-size: 5.5vw;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .title {
+        font-size: 10vw;
+    }
+    
+    .subtitle {
+        font-size: 8.5vw;
+    }
+}

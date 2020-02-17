@@ -1,0 +1,726 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"INFO","Thread-58","02/13/2020","12:30:15","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","main","02/13/2020","12:34:16","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/13/2020","12:34:16","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/13/2020","12:34:17","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","Thread-8","02/13/2020","12:34:21","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-8","02/13/2020","12:34:21","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-728","02/13/2020","13:34:17","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-728","02/13/2020","13:34:17","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-1345","02/13/2020","14:25:29","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","Thread-8","02/13/2020","14:26:50","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-8","02/13/2020","14:26:50","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-49","02/13/2020","14:29:56","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","main","02/13/2020","14:36:54","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/13/2020","14:36:54","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/13/2020","14:36:55","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","main","02/13/2020","14:36:56","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","main","02/13/2020","14:37:42","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/13/2020","14:37:42","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/13/2020","14:37:42","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","main","02/13/2020","14:37:42","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","main","02/13/2020","14:38:00","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/13/2020","14:38:00","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/13/2020","14:38:00","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","main","02/13/2020","14:38:01","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","main","02/13/2020","14:38:37","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/13/2020","14:38:37","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/13/2020","14:38:37","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","main","02/13/2020","14:38:38","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","main","02/13/2020","14:39:45","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/13/2020","14:39:45","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/13/2020","14:39:45","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","main","02/13/2020","14:39:45","lucee.runtime.CFMLFactoryImpl","Reset 0 Unused PageContexts"
+"INFO","main","02/13/2020","14:40:24","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/13/2020","14:40:24","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/13/2020","14:40:25","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","Thread-9","02/13/2020","14:40:29","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-9","02/13/2020","14:40:29","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"ERROR","http-nio-80-exec-5","02/13/2020","14:40:32","","Page /application/settings.cfm [D:\lucee\tomcat\webapps\inesse\application\settings.cfm] not found;Page /application/settings.cfm [D:\lucee\tomcat\webapps\inesse\application\settings.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /application/settings.cfm [D:\lucee\tomcat\webapps\inesse\application\settings.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:984)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.initComponent(/application.cfc:4)
+	at application_cfc$cf.newInstance(/application.cfc:1)
+	at lucee.runtime.component.ComponentLoader.initComponent(ComponentLoader.java:548)
+	at lucee.runtime.component.ComponentLoader._loadComponent(ComponentLoader.java:487)
+	at lucee.runtime.component.ComponentLoader.loadComponent(ComponentLoader.java:375)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [java.net.URLClassLoader@5ce81285]"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [lucee.commons.io.res.util.ResourceClassLoader@127705e4]"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","looking for tools.jar"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","couldn't find tools.jar at: D:\lucee\jre\lib\tools.jar"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","for IBM SDK couldn't find D:\lucee\lib\tools.jar"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","found D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","tools.jar used:D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","deploy /resource/bin/windows64/attach.dll to D:\lucee\tomcat\lucee-server\context\bin\attach.dll"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","add D:\lucee\tomcat\lucee-server\context\bin to library path"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","loaded VirtualMachine class:com.sun.tools.attach.VirtualMachine"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","create D:\lucee\tomcat\lucee-server\context\lucee-external-agent.jar"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","try to load agent (path:D:\lucee\tomcat\lucee-server\context\lucee-external-agent.jar)"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","pid:29692"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","Non-numeric value found - int expected;Non-numeric value found - int expected;java.io.IOException: Non-numeric value found - int expected
+	at sun.tools.attach.HotSpotVirtualMachine.readInt(HotSpotVirtualMachine.java:255)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:63)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:79)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgent(HotSpotVirtualMachine.java:103)
+	at com.sun.tools.attach.VirtualMachine.loadAgent(VirtualMachine.java:526)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at lucee.runtime.instrumentation.InstrumentationFactory.loadAgent(InstrumentationFactory.java:331)
+	at lucee.runtime.instrumentation.InstrumentationFactory.access$400(InstrumentationFactory.java:58)
+	at lucee.runtime.instrumentation.InstrumentationFactory$1.run(InstrumentationFactory.java:109)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at lucee.runtime.instrumentation.InstrumentationFactory.getInstrumentation(InstrumentationFactory.java:75)
+	at lucee.commons.lang.PhysicalClassLoader.loadClass(PhysicalClassLoader.java:192)
+	at lucee.runtime.MappingImpl.getPhysicalClass(MappingImpl.java:253)
+	at lucee.runtime.PageSourceImpl._compile(PageSourceImpl.java:405)
+	at lucee.runtime.PageSourceImpl.compile(PageSourceImpl.java:369)
+	at lucee.runtime.PageSourceImpl.loadPhysical(PageSourceImpl.java:315)
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:202)
+	at lucee.runtime.component.ComponentLoader.loadComponent(ComponentLoader.java:375)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-9","02/13/2020","14:41:31","Instrumentation","ExternalAgent does contain an Instrumentation instance"
+"ERROR","http-nio-80-exec-9","02/13/2020","14:41:31","","Page /home.cfm [D:\lucee\tomcat\webapps\inesse\home.cfm] not found;Page /home.cfm [D:\lucee\tomcat\webapps\inesse\home.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /home.cfm [D:\lucee\tomcat\webapps\inesse\home.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:984)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at index_cfm$cf.call(/index.cfm:1)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:944)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.udfCall(/application.cfc:57)
+	at lucee.runtime.type.UDFImpl.implementation(UDFImpl.java:106)
+	at lucee.runtime.type.UDFImpl._call(UDFImpl.java:342)
+	at lucee.runtime.type.UDFImpl.call(UDFImpl.java:215)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:680)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:568)
+	at lucee.runtime.ComponentImpl.call(ComponentImpl.java:1898)
+	at lucee.runtime.listener.ModernAppListener.call(ModernAppListener.java:436)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:215)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"ERROR","http-nio-80-exec-8","02/13/2020","14:41:32","","Page /home.cfm [D:\lucee\tomcat\webapps\inesse\home.cfm] not found;Page /home.cfm [D:\lucee\tomcat\webapps\inesse\home.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /home.cfm [D:\lucee\tomcat\webapps\inesse\home.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:984)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at index_cfm$cf.call(/index.cfm:1)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:944)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.udfCall(/application.cfc:57)
+	at lucee.runtime.type.UDFImpl.implementation(UDFImpl.java:106)
+	at lucee.runtime.type.UDFImpl._call(UDFImpl.java:342)
+	at lucee.runtime.type.UDFImpl.call(UDFImpl.java:215)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:680)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:568)
+	at lucee.runtime.ComponentImpl.call(ComponentImpl.java:1898)
+	at lucee.runtime.listener.ModernAppListener.call(ModernAppListener.java:436)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:215)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","Thread-754","02/13/2020","15:40:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[1771859];max size 	[1073741824]"
+"INFO","Thread-754","02/13/2020","15:40:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-1517","02/13/2020","16:40:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[1771859];max size 	[1073741824]"
+"INFO","Thread-1517","02/13/2020","16:40:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-2052","02/13/2020","17:21:54","lucee.runtime.CFMLFactoryImpl","Reset 1 Unused PageContexts"
+"INFO","main","02/14/2020","18:31:01","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/14/2020","18:31:01","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/14/2020","18:31:01","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [java.net.URLClassLoader@5383967b]"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [lucee.commons.io.res.util.ResourceClassLoader@7c011174]"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","looking for tools.jar"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","couldn't find tools.jar at: D:\lucee\jre\lib\tools.jar"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","for IBM SDK couldn't find D:\lucee\lib\tools.jar"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","found D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","tools.jar used:D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","add D:\lucee\tomcat\lucee-server\context\bin to library path"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","loaded VirtualMachine class:com.sun.tools.attach.VirtualMachine"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","try to load agent (path:D:\lucee\tomcat\lucee-server\context\lucee-external-agent.jar)"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","pid:72952"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","Non-numeric value found - int expected;Non-numeric value found - int expected;java.io.IOException: Non-numeric value found - int expected
+	at sun.tools.attach.HotSpotVirtualMachine.readInt(HotSpotVirtualMachine.java:255)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:63)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:79)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgent(HotSpotVirtualMachine.java:103)
+	at com.sun.tools.attach.VirtualMachine.loadAgent(VirtualMachine.java:526)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at lucee.runtime.instrumentation.InstrumentationFactory.loadAgent(InstrumentationFactory.java:331)
+	at lucee.runtime.instrumentation.InstrumentationFactory.access$400(InstrumentationFactory.java:58)
+	at lucee.runtime.instrumentation.InstrumentationFactory$1.run(InstrumentationFactory.java:109)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at lucee.runtime.instrumentation.InstrumentationFactory.getInstrumentation(InstrumentationFactory.java:75)
+	at lucee.commons.lang.PhysicalClassLoader.loadClass(PhysicalClassLoader.java:192)
+	at lucee.runtime.MappingImpl.getPhysicalClass(MappingImpl.java:253)
+	at lucee.runtime.PageSourceImpl._compile(PageSourceImpl.java:405)
+	at lucee.runtime.PageSourceImpl.compile(PageSourceImpl.java:369)
+	at lucee.runtime.PageSourceImpl.loadPhysical(PageSourceImpl.java:342)
+	at lucee.runtime.PageSourceImpl.loadPageThrowTemplateException(PageSourceImpl.java:221)
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:981)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.udfCall(/application.cfc:56)
+	at lucee.runtime.type.UDFImpl.implementation(UDFImpl.java:106)
+	at lucee.runtime.type.UDFImpl._call(UDFImpl.java:342)
+	at lucee.runtime.type.UDFImpl.call(UDFImpl.java:215)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:680)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:568)
+	at lucee.runtime.ComponentImpl.call(ComponentImpl.java:1898)
+	at lucee.runtime.listener.ModernAppListener.call(ModernAppListener.java:436)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:215)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-1","02/14/2020","18:31:04","Instrumentation","ExternalAgent does contain an Instrumentation instance"
+"INFO","Thread-10","02/14/2020","18:31:06","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-10","02/14/2020","18:31:06","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-182","02/14/2020","18:45:10","lucee.runtime.CFMLFactoryImpl","Reset 2 Unused PageContexts"
+"INFO","main","02/14/2020","18:46:25","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/14/2020","18:46:25","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/14/2020","18:46:25","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","Thread-10","02/14/2020","18:46:30","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-10","02/14/2020","18:46:30","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-759","02/14/2020","19:46:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-759","02/14/2020","19:46:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [java.net.URLClassLoader@5ce81285]"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [lucee.commons.io.res.util.ResourceClassLoader@340d6d89]"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","looking for tools.jar"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","couldn't find tools.jar at: D:\lucee\jre\lib\tools.jar"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","for IBM SDK couldn't find D:\lucee\lib\tools.jar"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","found D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","tools.jar used:D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","add D:\lucee\tomcat\lucee-server\context\bin to library path"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","loaded VirtualMachine class:com.sun.tools.attach.VirtualMachine"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","try to load agent (path:D:\lucee\tomcat\lucee-server\context\lucee-external-agent.jar)"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","pid:15412"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","Non-numeric value found - int expected;Non-numeric value found - int expected;java.io.IOException: Non-numeric value found - int expected
+	at sun.tools.attach.HotSpotVirtualMachine.readInt(HotSpotVirtualMachine.java:255)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:63)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:79)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgent(HotSpotVirtualMachine.java:103)
+	at com.sun.tools.attach.VirtualMachine.loadAgent(VirtualMachine.java:526)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at lucee.runtime.instrumentation.InstrumentationFactory.loadAgent(InstrumentationFactory.java:331)
+	at lucee.runtime.instrumentation.InstrumentationFactory.access$400(InstrumentationFactory.java:58)
+	at lucee.runtime.instrumentation.InstrumentationFactory$1.run(InstrumentationFactory.java:109)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at lucee.runtime.instrumentation.InstrumentationFactory.getInstrumentation(InstrumentationFactory.java:75)
+	at lucee.commons.lang.PhysicalClassLoader.loadClass(PhysicalClassLoader.java:192)
+	at lucee.runtime.MappingImpl.getPhysicalClass(MappingImpl.java:253)
+	at lucee.runtime.PageSourceImpl._compile(PageSourceImpl.java:405)
+	at lucee.runtime.PageSourceImpl.compile(PageSourceImpl.java:369)
+	at lucee.runtime.PageSourceImpl.loadPhysical(PageSourceImpl.java:315)
+	at lucee.runtime.PageSourceImpl.loadPageThrowTemplateException(PageSourceImpl.java:221)
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:981)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at index_cfm$cf.call(/index.cfm:1)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:944)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.udfCall(/application.cfc:57)
+	at lucee.runtime.type.UDFImpl.implementation(UDFImpl.java:106)
+	at lucee.runtime.type.UDFImpl._call(UDFImpl.java:342)
+	at lucee.runtime.type.UDFImpl.call(UDFImpl.java:215)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:680)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:568)
+	at lucee.runtime.ComponentImpl.call(ComponentImpl.java:1898)
+	at lucee.runtime.listener.ModernAppListener.call(ModernAppListener.java:436)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:215)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at mod_cfml.core.invoke(core.java:180)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-5","02/14/2020","20:33:52","Instrumentation","ExternalAgent does contain an Instrumentation instance"
+"INFO","Thread-1514","02/14/2020","20:46:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-1514","02/14/2020","20:46:25","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-2247","02/14/2020","21:46:26","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-2247","02/14/2020","21:46:26","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-2973","02/14/2020","22:46:26","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-2973","02/14/2020","22:46:26","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-3692","02/14/2020","23:45:25","lucee.runtime.CFMLFactoryImpl","Reset 1 Unused PageContexts"
+"INFO","main","02/15/2020","08:45:09","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/15/2020","08:45:10","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/15/2020","08:45:10","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","Thread-10","02/15/2020","08:45:14","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-10","02/15/2020","08:45:14","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [java.net.URLClassLoader@6fc6f14e]"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [lucee.commons.io.res.util.ResourceClassLoader@794366a5]"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","looking for tools.jar"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","couldn't find tools.jar at: D:\lucee\jre\lib\tools.jar"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","for IBM SDK couldn't find D:\lucee\lib\tools.jar"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","found D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","tools.jar used:D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","add D:\lucee\tomcat\lucee-server\context\bin to library path"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","loaded VirtualMachine class:com.sun.tools.attach.VirtualMachine"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","try to load agent (path:D:\lucee\tomcat\lucee-server\context\lucee-external-agent.jar)"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","pid:70500"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","Non-numeric value found - int expected;Non-numeric value found - int expected;java.io.IOException: Non-numeric value found - int expected
+	at sun.tools.attach.HotSpotVirtualMachine.readInt(HotSpotVirtualMachine.java:255)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:63)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:79)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgent(HotSpotVirtualMachine.java:103)
+	at com.sun.tools.attach.VirtualMachine.loadAgent(VirtualMachine.java:526)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at lucee.runtime.instrumentation.InstrumentationFactory.loadAgent(InstrumentationFactory.java:331)
+	at lucee.runtime.instrumentation.InstrumentationFactory.access$400(InstrumentationFactory.java:58)
+	at lucee.runtime.instrumentation.InstrumentationFactory$1.run(InstrumentationFactory.java:109)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at lucee.runtime.instrumentation.InstrumentationFactory.getInstrumentation(InstrumentationFactory.java:75)
+	at lucee.commons.lang.PhysicalClassLoader.loadClass(PhysicalClassLoader.java:192)
+	at lucee.runtime.MappingImpl.getPhysicalClass(MappingImpl.java:253)
+	at lucee.runtime.PageSourceImpl._compile(PageSourceImpl.java:405)
+	at lucee.runtime.PageSourceImpl.compile(PageSourceImpl.java:369)
+	at lucee.runtime.PageSourceImpl.loadPhysical(PageSourceImpl.java:315)
+	at lucee.runtime.PageSourceImpl.loadPageThrowTemplateException(PageSourceImpl.java:221)
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:981)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at index_cfm$cf.call(/index.cfm:1)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:944)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.udfCall(/application.cfc:57)
+	at lucee.runtime.type.UDFImpl.implementation(UDFImpl.java:106)
+	at lucee.runtime.type.UDFImpl._call(UDFImpl.java:342)
+	at lucee.runtime.type.UDFImpl.call(UDFImpl.java:215)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:680)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:568)
+	at lucee.runtime.ComponentImpl.call(ComponentImpl.java:1898)
+	at lucee.runtime.listener.ModernAppListener.call(ModernAppListener.java:436)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:215)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at mod_cfml.core.invoke(core.java:180)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-5","02/15/2020","09:03:53","Instrumentation","ExternalAgent does contain an Instrumentation instance"
+"INFO","Thread-750","02/15/2020","09:45:10","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-750","02/15/2020","09:45:10","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-1483","02/15/2020","10:45:11","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-1483","02/15/2020","10:45:11","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-2205","02/15/2020","11:45:12","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-2205","02/15/2020","11:45:12","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-2934","02/15/2020","12:45:14","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-2934","02/15/2020","12:45:14","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-3419","02/15/2020","13:19:52","lucee.runtime.CFMLFactoryImpl","Reset 3 Unused PageContexts"
+"INFO","main","02/15/2020","15:24:05","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/15/2020","15:24:05","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/15/2020","15:24:05","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [java.net.URLClassLoader@4fe3c938]"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [lucee.commons.io.res.util.ResourceClassLoader@41da3aee]"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","looking for tools.jar"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","couldn't find tools.jar at: D:\lucee\jre\lib\tools.jar"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","for IBM SDK couldn't find D:\lucee\lib\tools.jar"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","found D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","tools.jar used:D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","add D:\lucee\tomcat\lucee-server\context\bin to library path"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","loaded VirtualMachine class:com.sun.tools.attach.VirtualMachine"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","try to load agent (path:D:\lucee\tomcat\lucee-server\context\lucee-external-agent.jar)"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","pid:28656"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","Non-numeric value found - int expected;Non-numeric value found - int expected;java.io.IOException: Non-numeric value found - int expected
+	at sun.tools.attach.HotSpotVirtualMachine.readInt(HotSpotVirtualMachine.java:255)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:63)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:79)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgent(HotSpotVirtualMachine.java:103)
+	at com.sun.tools.attach.VirtualMachine.loadAgent(VirtualMachine.java:526)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at lucee.runtime.instrumentation.InstrumentationFactory.loadAgent(InstrumentationFactory.java:331)
+	at lucee.runtime.instrumentation.InstrumentationFactory.access$400(InstrumentationFactory.java:58)
+	at lucee.runtime.instrumentation.InstrumentationFactory$1.run(InstrumentationFactory.java:109)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at lucee.runtime.instrumentation.InstrumentationFactory.getInstrumentation(InstrumentationFactory.java:75)
+	at lucee.commons.lang.PhysicalClassLoader.loadClass(PhysicalClassLoader.java:192)
+	at lucee.runtime.MappingImpl.getPhysicalClass(MappingImpl.java:253)
+	at lucee.runtime.PageSourceImpl._compile(PageSourceImpl.java:405)
+	at lucee.runtime.PageSourceImpl.compile(PageSourceImpl.java:369)
+	at lucee.runtime.PageSourceImpl.loadPhysical(PageSourceImpl.java:342)
+	at lucee.runtime.PageSourceImpl.loadPageThrowTemplateException(PageSourceImpl.java:221)
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:981)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.udfCall(/application.cfc:56)
+	at lucee.runtime.type.UDFImpl.implementation(UDFImpl.java:106)
+	at lucee.runtime.type.UDFImpl._call(UDFImpl.java:342)
+	at lucee.runtime.type.UDFImpl.call(UDFImpl.java:215)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:680)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:568)
+	at lucee.runtime.ComponentImpl.call(ComponentImpl.java:1898)
+	at lucee.runtime.listener.ModernAppListener.call(ModernAppListener.java:436)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:215)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at mod_cfml.core.invoke(core.java:180)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-3","02/15/2020","15:24:07","Instrumentation","ExternalAgent does contain an Instrumentation instance"
+"INFO","Thread-10","02/15/2020","15:24:10","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-10","02/15/2020","15:24:10","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-881","02/15/2020","16:24:05","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-881","02/15/2020","16:24:05","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-1650","02/15/2020","17:24:05","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-1650","02/15/2020","17:24:05","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-2180","02/15/2020","18:07:00","lucee.runtime.CFMLFactoryImpl","Reset 2 Unused PageContexts"
+"INFO","main","02/17/2020","14:09:18","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-admin.lar"
+"INFO","main","02/17/2020","14:09:18","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-doc.lar"
+"INFO","main","02/17/2020","14:09:18","OSGi","add bundle:D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\context\lucee-context.lar"
+"INFO","Thread-8","02/17/2020","14:09:23","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-8","02/17/2020","14:09:23","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [java.net.URLClassLoader@5ce81285]"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","not found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [lucee.commons.io.res.util.ResourceClassLoader@6ba060f3]"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","looking for tools.jar"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","couldn't find tools.jar at: D:\lucee\jre\lib\tools.jar"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","for IBM SDK couldn't find D:\lucee\lib\tools.jar"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","found D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","tools.jar used:D:\lucee\tomcat\lucee-server\context\tools-windows-7u25.jar"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","add D:\lucee\tomcat\lucee-server\context\bin to library path"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","loaded VirtualMachine class:com.sun.tools.attach.VirtualMachine"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","try to load agent (path:D:\lucee\tomcat\lucee-server\context\lucee-external-agent.jar)"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:24","Instrumentation","pid:75740"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:25","Instrumentation","Non-numeric value found - int expected;Non-numeric value found - int expected;java.io.IOException: Non-numeric value found - int expected
+	at sun.tools.attach.HotSpotVirtualMachine.readInt(HotSpotVirtualMachine.java:255)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:63)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgentLibrary(HotSpotVirtualMachine.java:79)
+	at sun.tools.attach.HotSpotVirtualMachine.loadAgent(HotSpotVirtualMachine.java:103)
+	at com.sun.tools.attach.VirtualMachine.loadAgent(VirtualMachine.java:526)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at lucee.runtime.instrumentation.InstrumentationFactory.loadAgent(InstrumentationFactory.java:331)
+	at lucee.runtime.instrumentation.InstrumentationFactory.access$400(InstrumentationFactory.java:58)
+	at lucee.runtime.instrumentation.InstrumentationFactory$1.run(InstrumentationFactory.java:109)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at lucee.runtime.instrumentation.InstrumentationFactory.getInstrumentation(InstrumentationFactory.java:75)
+	at lucee.commons.lang.PhysicalClassLoader.loadClass(PhysicalClassLoader.java:192)
+	at lucee.runtime.MappingImpl.getPhysicalClass(MappingImpl.java:253)
+	at lucee.runtime.PageSourceImpl._compile(PageSourceImpl.java:405)
+	at lucee.runtime.PageSourceImpl.compile(PageSourceImpl.java:369)
+	at lucee.runtime.PageSourceImpl.loadPhysical(PageSourceImpl.java:315)
+	at lucee.runtime.PageSourceImpl.loadPageThrowTemplateException(PageSourceImpl.java:221)
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:981)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:939)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:836)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:818)
+	at application_cfc$cf.udfCall(/application.cfc:56)
+	at lucee.runtime.type.UDFImpl.implementation(UDFImpl.java:106)
+	at lucee.runtime.type.UDFImpl._call(UDFImpl.java:342)
+	at lucee.runtime.type.UDFImpl.call(UDFImpl.java:215)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:680)
+	at lucee.runtime.ComponentImpl._call(ComponentImpl.java:568)
+	at lucee.runtime.ComponentImpl.call(ComponentImpl.java:1898)
+	at lucee.runtime.listener.ModernAppListener.call(ModernAppListener.java:436)
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:215)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:42)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2415)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2405)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2380)
+	at lucee.runtime.engine.Request.exe(Request.java:43)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1110)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1056)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:97)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at mod_cfml.core.invoke(core.java:180)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Unknown Source)
+"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:25","Instrumentation","found [lucee.runtime.instrumentation.ExternalAgent] in ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@edf4efb]"
+"INFO","http-nio-80-exec-9","02/17/2020","14:37:25","Instrumentation","ExternalAgent does contain an Instrumentation instance"
+"INFO","Thread-741","02/17/2020","15:09:18","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-741","02/17/2020","15:09:18","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
+"INFO","Thread-1462","02/17/2020","16:09:19","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\temp]; current size	[0];max size 	[1073741824]"
+"INFO","Thread-1462","02/17/2020","16:09:19","lucee.runtime.engine.Controler","check size of directory [D:\lucee\tomcat\webapps\inesse\WEB-INF\lucee\cache]; current size	[0];max size 	[104857600]"
